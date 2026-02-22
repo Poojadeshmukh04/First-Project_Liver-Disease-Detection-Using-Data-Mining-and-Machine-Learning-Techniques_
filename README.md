@@ -15,9 +15,10 @@ Naive Bayes
 # Results
 The Random Forest model emerged as the most accurate for liver disease detection :
 # Model Performance Comparison
-I evaluated six models to find the most effective diagnostic tool. While **Random Forest** achieved the highest overall accuracy, **Naive Bayes** showed the best ability to identify actual disease cases (Recall).
+I evaluated six models to find the most effective diagnostic tool.
+While **Random Forest** achieved the highest overall accuracy, 
+**Naive Bayes** showed the best ability to identify actual disease cases (Recall).
 | Model | Accuracy (%) | Precision (%) | Recall (%) | F1-Score (%) | ROC-AUC (%) |
-
 | **Random Forest** | **72.57** | **48.48** | 34.04 | 40.00 | 60.38 |
 | Logistic Regression | 72.00 | 45.00 | 19.15 | 26.87 | 55.28 |
 | Gradient Boosting | 70.86 | 44.74 | 36.17 | 40.00 | 59.88 |
