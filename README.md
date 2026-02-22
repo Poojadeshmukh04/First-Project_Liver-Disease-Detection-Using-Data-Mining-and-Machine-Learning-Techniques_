@@ -20,15 +20,15 @@ While **Random Forest** achieved the highest overall accuracy,
 **Naive Bayes** showed the best ability to identify actual disease cases (Recall).
 | Model | Accuracy (%) | Precision (%) | Recall (%) | F1-Score (%) | ROC-AUC (%) |
 | **Random Forest** | **72.57** | **48.48** | 34.04 | 40.00 | 60.38 |
-<brk>
+<br>
 | Logistic Regression | 72.00 | 45.00 | 19.15 | 26.87 | 55.28 |
-<brk>
+<br>
 | Gradient Boosting | 70.86 | 44.74 | 36.17 | 40.00 | 59.88 |
-<brk>
+<br>
 | Decision Tree | 69.14 | 43.40 | 48.94 | 46.00 | 62.75 |
-<brk>
+<br>
 | K-Nearest Neighbors | 65.71 | 37.25 | 40.43 | 38.78 | 57.71 |
-<brk>
+<br>
 | Naive Bayes | 57.14 | 38.33 | **97.87** | 55.09 | 70.03 |
 # Tools & Technologies
 Language: Python 
